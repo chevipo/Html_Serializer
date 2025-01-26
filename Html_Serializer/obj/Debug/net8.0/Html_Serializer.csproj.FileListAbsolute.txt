@@ -1,0 +1,16 @@
+Y:\Groups\Group_5\פרידר מרים\practicode\Html_Serializer\Html_Serializer\bin\Debug\net8.0\Html_Serializer.exe
+Y:\Groups\Group_5\פרידר מרים\practicode\Html_Serializer\Html_Serializer\bin\Debug\net8.0\Html_Tags\HtmlTags.json
+Y:\Groups\Group_5\פרידר מרים\practicode\Html_Serializer\Html_Serializer\bin\Debug\net8.0\Html_Tags\HtmlVoidTags.json
+Y:\Groups\Group_5\פרידר מרים\practicode\Html_Serializer\Html_Serializer\bin\Debug\net8.0\Html_Serializer.deps.json
+Y:\Groups\Group_5\פרידר מרים\practicode\Html_Serializer\Html_Serializer\bin\Debug\net8.0\Html_Serializer.runtimeconfig.json
+Y:\Groups\Group_5\פרידר מרים\practicode\Html_Serializer\Html_Serializer\bin\Debug\net8.0\Html_Serializer.dll
+Y:\Groups\Group_5\פרידר מרים\practicode\Html_Serializer\Html_Serializer\bin\Debug\net8.0\Html_Serializer.pdb
+Y:\Groups\Group_5\פרידר מרים\practicode\Html_Serializer\Html_Serializer\obj\Debug\net8.0\Html_Serializer.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_5\פרידר מרים\practicode\Html_Serializer\Html_Serializer\obj\Debug\net8.0\Html_Serializer.AssemblyInfoInputs.cache
+Y:\Groups\Group_5\פרידר מרים\practicode\Html_Serializer\Html_Serializer\obj\Debug\net8.0\Html_Serializer.AssemblyInfo.cs
+Y:\Groups\Group_5\פרידר מרים\practicode\Html_Serializer\Html_Serializer\obj\Debug\net8.0\Html_Serializer.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_5\פרידר מרים\practicode\Html_Serializer\Html_Serializer\obj\Debug\net8.0\Html_Serializer.dll
+Y:\Groups\Group_5\פרידר מרים\practicode\Html_Serializer\Html_Serializer\obj\Debug\net8.0\refint\Html_Serializer.dll
+Y:\Groups\Group_5\פרידר מרים\practicode\Html_Serializer\Html_Serializer\obj\Debug\net8.0\Html_Serializer.pdb
+Y:\Groups\Group_5\פרידר מרים\practicode\Html_Serializer\Html_Serializer\obj\Debug\net8.0\Html_Serializer.genruntimeconfig.cache
+Y:\Groups\Group_5\פרידר מרים\practicode\Html_Serializer\Html_Serializer\obj\Debug\net8.0\ref\Html_Serializer.dll

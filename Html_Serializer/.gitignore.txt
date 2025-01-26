@@ -1,0 +1,69 @@
+# Build results
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono auto generated files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# macOS files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Logs
+*.log
+
+# Visual Studio Code files
+.vscode/
+
+# Rider files
+.idea/
+*.sln.iml
+
+# Visual Studio workspace and config
+.vs/
+
+# NPM packages
+node_modules/
+
+# Dependencies
+*.dll
+*.pdb
+*.cache
+*.so
+*.dylib
+*.class
+
+# DotNet artifacts
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# JetBrains Rider
+.idea/
+
+# Uncomment if using ASP.NET
+# wwwroot/
+
+# Azure Functions artifacts
+local.settings.json
+
+# Docker
+docker-compose.override.yml
+.dockerignore
